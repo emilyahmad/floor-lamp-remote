@@ -144,9 +144,9 @@ void loop(){
 
 Now I just need to understand the floor lamp's wiring, disconnect it from its little board and put the appropriate wires into my relay. I'd be wiring the NO & NC relay terminals. I'll look up how the wiring for most floor lamps with sliders works and maybe the product description for the specific lamp. This is what it looks like
 
-| Front                                        | Back                                             |
-| -------------------------------------------- | ------------------------------------------------ |
-| ![Old lamp's board](Images/oldLampBoard.JPG) | ![Old lamp's board](Images/oldLampBoardBack.JPG) |
+| Front                                         | Back                                              |
+| --------------------------------------------- | ------------------------------------------------- |
+| ![Old lamp's board](/Images/oldLampBoard.JPG) | ![Old lamp's board](/Images/oldLampBoardBack.JPG) |
 
 Played with the images to try to understand the circuit better, talked to chatgpt about typical floor lamp circuits, ones with dimmers, I just don't want to die from electrocution.
 
@@ -156,5 +156,5 @@ Traced, found the input wire, I guess that's what I'll put in the NO, output wil
 
 Oh COM, NO and NC don't correspond to hot, neutral and output, we just need to dis/connect to the hot wire. NC is unused, COM is incoming hot and NO is hot going to the lamp. Hm but the lamp doesn't exactly have a neutral wire. Ohh is it just the input cord to COM and output to NO? I'll try tomorrow but check with someone first so I don't get electrocuted.
 
-| ![1](Images/PCB_Traced/1.png/) | ![1](Images/PCB_Traced/2.png/) | ![1](Images/PCB_Traced/3.png/) | ![1](Images/PCB_Traced/4.png/) |
+| ![1](/Images/PCB_Traced/1.png) | ![1](/Images/PCB_Traced/2.png) | ![1](/Images/PCB_Traced/3.png) | ![1](/Images/PCB_Traced/4.png) |
 | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
