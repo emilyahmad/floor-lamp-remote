@@ -1,0 +1,11 @@
+ok time to actually connect it to the lamp, I think I can literally just cut the wires from the board because they look like they are solderred on, and then I can put them into the terminals
+
+no way, I was able to cut off the first ones. That's kind of concerning/how easy it was to take apart, I'm going to try to take out the wire protector/rubber thingy and get more of the exposed wire that I can actually feed in the terminal
+
+LMAOOO my lamp looks stupid rn
+
+ok I'm going to try with like a nail clipper to get this rubber wire protector part off, lowkey works
+
+ok I got enough of the exposed wire for one, but I need to be careful with how much I'm cutting off, also 3 more. Second one done, the poor wire itself is like unraveling it looks like when you're sewing or split ends
+
+I'll rerun the arduino code to make sure it still looks good. Yep works fine. Ok I'll confirm with chat that I can just insert the two exposed wires from the lamp (output) to the NO terminal. Also looking closely its two wires, one connected to lamp/output and one connected to normal and same thing for the input cords. Shoot I don't think I was supposed to cut off the line that connected to the neutral part. I can probably solder that back on. But I guess for the output cords I'll leave the line connecting to the normal alone and just connect the output/hot line to the COM terminal. I might be able to get away with just connecting the output wires to the switch and keeping the TRIAC/dimmer. Shoot I should've just connected the relay to the input wire and not touched the output wire. Ok later on I'll probably take out the entire dimmmer switch but for now I kind of want to just wire up what I can to the switch. Ok I keep reading about the hazards and now I'm kind of scared. I feel like I could've simplified this a lot more but I didn't really know what I was doing or how else I would've learned this if I didn't just try what I was thinking. Also ngl this is really fun, I just do not want to start a fire. Okok final plan, lamp output will go to COM and lamp hot will go to NO, I'll solder back the neutral part of the output and leave the input's neutral alone. I'll set up my soldering stuff tomorrow.

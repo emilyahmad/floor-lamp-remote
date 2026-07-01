@@ -127,10 +127,12 @@ void loop(){
           Serial.println("Turning on..");
           digitalWrite(redPin, HIGH);
           digitalWrite(relayPin, HIGH);
+          turnedOff = false;
         } else {
           Serial.println("Turning off..");
           digitalWrite(redPin, LOW);
           digitalWrite(relayPin, LOW);
+          turnedOff = true;
         }
         break;
       default:
