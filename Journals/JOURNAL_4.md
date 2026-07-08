@@ -2,3 +2,5 @@ I got a multimeter to just check if the current is running correctly. I'm going 
 lamp output will go to COM and lamp hot will go to NO
 im not sure if it's okay for the wire to be exposed
 also what should the NC be connected to?
+
+apparently NC is disconnected, I'll connect everything when I get home.
