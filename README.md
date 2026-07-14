@@ -5,3 +5,12 @@
 ![Final diagram](/Images/Final.png)
 
 You can see a demo [here](https://youtu.be/SGTEAsR3ht0)
+
+BOM
+
+| Item                    | Purpose            | Quantity | Cost | Source         |
+| ----------------------- | ------------------ | -------- | ---- | -------------- |
+| Arduino UNO             | Microcontroller    | 1        | ?    | Starter kit    |
+| Relay/switch            | Switch on/off lamp | 1        | $6   | Amazon, 4 pack |
+| TRIAC/Dimmer switch PCB | Powers lamp        | 1        | ?    | Came with lamp |
+| Jumper/dupoint wires    | Wires              | ~7       | ?    | Starter kit    |
